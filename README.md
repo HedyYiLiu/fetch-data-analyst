@@ -19,7 +19,6 @@ This repository contains my submission for the Fetch Data Analyst Take-Home Exer
 ## 🔍 Analysis & Key Findings  
 ### **1️⃣ Data Quality Issues**  
 - **Missing Data** – Some records have null values for key fields like `birth_date` and `sale`.  
-- **Inconsistent Formats** – State names appear in mixed formats (e.g., `"CA"` vs. `"California"`).  
 - **Duplicate Entries** – Some transaction records have identical timestamps and values.  
 
 ### **2️⃣ SQL Queries Answered**  
