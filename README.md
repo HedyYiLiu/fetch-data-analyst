@@ -7,9 +7,6 @@ This repository contains my submission for the Fetch Data Analyst Take-Home Exer
 
 ## 📂 Contents  
 - `exploratory_analysis.ipynb` – Python notebook for data exploration and visualization, SQL queries for closed-ended and open-ended questions, and stakeholder summary contains business insights and recommendations 
-- `PRODUCTS_TAKEHOME.csv` – Product dataset  
-- `TRANSACTION_TAKEHOME.csv` – Transaction dataset  
-- `USER_TAKEHOME.csv` – User dataset  
 
 ---
 
